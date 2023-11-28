@@ -1,0 +1,12 @@
+{
+  "name": "portfolio-master",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">\r   <h1 align=\"center\">Developer's Portfolio ✨</h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node your-server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
